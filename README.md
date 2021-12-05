@@ -14,7 +14,7 @@ Trained model file
   
 ## 03 - Deploy
   
-Web application using the saved_steps.pkl model file using docker-compose
+Web application using the saved_steps.pkl model file using docker-compose  
 Created using streamlit
   
 visit http://localhost:8501 
