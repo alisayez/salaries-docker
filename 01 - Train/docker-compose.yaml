@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  trainsalaries:
+    build: .
+    container_name: trainsalaries
+    stdin_open: true
+    tty: true
+    volumes:
+      - .:/python
