@@ -1,7 +1,8 @@
 # salaries-docker
 
 ## 01 - Train  
-  
+
+Download .csv file from https://drive.google.com/file/d/1iSjWvv_Bsk55Bls5FEmNJHU674f60HYM/view?usp=sharing
 Train model in docker container using docker-compose  
 creates saved_steps.pkl file  
 copy saved_steps.pkl to 03 - Deploy folder
